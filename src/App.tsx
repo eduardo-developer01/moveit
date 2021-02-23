@@ -1,6 +1,11 @@
+import './styles/global.css'
+
 function App() {
   return (
-    <h1>Hello World</h1>
+    <>
+      <h1 style={{ height: '3rem' }}>Hello World</h1>
+      <button style={{ height: '3rem' }}>button</button>
+    </>
   )
 }
 
