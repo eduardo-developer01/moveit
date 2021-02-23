@@ -1,5 +1,3 @@
-import react from 'react'
-
 export default function ExperienceBar() {
   return (
     <header className="experience-bar">
