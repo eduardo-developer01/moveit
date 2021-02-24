@@ -5,7 +5,7 @@ export default function Profile() {
     <div className={styles.profileContainer}>
       <img src="https://github.com/eduardo-developer01.png" alt="user github Eduardo-developer01" />
       <div>
-        <strong>Eduardo sivla</strong>
+        <strong>Eduardo Silva</strong>
         <p>
           <img src="icons/level.svg" alt="icone for virw level" />
           Level 1
